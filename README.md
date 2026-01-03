@@ -1,3 +1,3 @@
 
-<big>🤖AI Library<big>🤖<br>
+🤖<bigAI Library<big>🤖<br>
 NUMPY
